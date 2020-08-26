@@ -21,10 +21,10 @@ import {
 import { DOM } from '@antv/l7-utils';
 import { mat4, vec2, vec3 } from 'gl-matrix';
 import { inject, injectable } from 'inversify';
-import mapboxgl, { IControl, Map } from 'mapbox-gl';
+import mapboxgl, { IControl, Map } from '@cgcs2000/mapbox-gl';
 
 // tslint:disable-next-line:no-submodule-imports
-import 'mapbox-gl/dist/mapbox-gl.css';
+import '@cgcs2000/mapbox-gl/dist/mapbox-gl.css';
 import { IMapboxInstance } from '../../typings/index';
 import Viewport from './Viewport';
 window.mapboxgl = mapboxgl;
