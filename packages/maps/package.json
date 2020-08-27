@@ -26,22 +26,22 @@
   "author": "xiaoiver",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.7.7",
     "@cgcs2000/l7-core": "2.2.32",
     "@cgcs2000/l7-map": "2.2.32",
     "@cgcs2000/l7-utils": "2.2.32",
-    "@babel/runtime": "^7.7.7",
+    "@cgcs2000/mapbox-gl": "^1.2.0",
+    "@cgcs2000/viewport-cgcs2000-project": "^6.1.2",
     "@types/amap-js-api": "^1.4.6",
     "gl-matrix": "^3.1.0",
-    "inversify": "^5.0.1",
-    "@cgcs2000/mapbox-gl": "^1.2.0",
-    "@cgcs2000/viewport-cgcs2000-project": "^6.1.2"
+    "inversify": "^5.0.1"
   },
   "devDependencies": {
     "@types/gl-matrix": "^2.4.5",
     "@types/mapbox-gl": "^0.54.3",
     "@types/viewport-mercator-project": "^6.1.0"
   },
-  "gitHead": "20154fe30d512024b03ac5e40f77731bc0580bb0",
+  "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
   "publishConfig": {
     "access": "public"
   }

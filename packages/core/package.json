@@ -24,8 +24,9 @@
   "license": "ISC",
   "dependencies": {
     "@antv/async-hook": "^2.1.0",
-    "@cgcs2000/l7-utils": "2.2.32",
     "@babel/runtime": "^7.7.7",
+    "@cgcs2000/l7-utils": "2.2.32",
+    "@cgcs2000/viewport-cgcs2000-project": "^6.1.2",
     "@mapbox/tiny-sdf": "^1.1.1",
     "ajv": "^6.10.2",
     "element-resize-event": "^3.0.3",
@@ -37,8 +38,7 @@
     "lodash": "^4.17.15",
     "merge-json-schemas": "^1.0.0",
     "probe.gl": "^3.1.1",
-    "reflect-metadata": "^0.1.13",
-    "@cgcs2000/viewport-cgcs2000-project": "^6.1.2"
+    "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
     "@types/element-resize-event": "^2.0.0",
@@ -47,7 +47,7 @@
     "@types/lodash": "^4.14.138",
     "@types/viewport-mercator-project": "^6.1.0"
   },
-  "gitHead": "20154fe30d512024b03ac5e40f77731bc0580bb0",
+  "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
   "publishConfig": {
     "access": "public"
   }

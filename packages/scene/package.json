@@ -23,17 +23,17 @@
   "author": "xiaoiver",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.7.7",
     "@cgcs2000/l7-component": "2.2.32",
     "@cgcs2000/l7-core": "2.2.32",
     "@cgcs2000/l7-maps": "2.2.32",
     "@cgcs2000/l7-renderer": "2.2.32",
     "@cgcs2000/l7-utils": "2.2.32",
-    "@babel/runtime": "^7.7.7",
-    "inversify": "^5.0.1",
     "@cgcs2000/mapbox-gl": "^1.2.0",
+    "inversify": "^5.0.1",
     "reflect-metadata": "^0.1.13"
   },
-  "gitHead": "20154fe30d512024b03ac5e40f77731bc0580bb0",
+  "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
   "publishConfig": {
     "access": "public"
   }
