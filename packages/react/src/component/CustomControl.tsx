@@ -1,4 +1,4 @@
-import { Control, PositionName, Scene } from '@antv/l7';
+import { Control, PositionName, Scene } from '@cgcs2000/l7';
 import * as React from 'react';
 import { createPortal } from 'react-dom';
 import { useSceneValue } from './SceneContext';

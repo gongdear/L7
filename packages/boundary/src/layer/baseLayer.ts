@@ -7,7 +7,7 @@ import {
   Popup,
   Scene,
   StyleAttrField,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import { EventEmitter } from 'eventemitter3';
 // @ts-ignore
 import geobuf from 'geobuf';

@@ -1,4 +1,10 @@
-import { IInteractionTarget, ILayer, ILngLat, Popup, Scene } from '@antv/l7';
+import {
+  IInteractionTarget,
+  ILayer,
+  ILngLat,
+  Popup,
+  Scene,
+} from '@cgcs2000/l7';
 import {
   Feature,
   FeatureCollection,

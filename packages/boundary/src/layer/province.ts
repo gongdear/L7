@@ -5,7 +5,7 @@ import {
   PolygonLayer,
   Scene,
   StyleAttrField,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 // tslint:disable-next-line: no-submodule-imports
 import merge from 'lodash/merge';
 import { getDataConfig } from '../';

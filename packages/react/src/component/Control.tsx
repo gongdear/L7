@@ -1,4 +1,4 @@
-import { IControl, Logo, PositionName, Scale, Scene, Zoom } from '@antv/l7';
+import { IControl, Logo, PositionName, Scale, Scene, Zoom } from '@cgcs2000/l7';
 import React, { useEffect, useState } from 'react';
 import { useSceneValue } from './SceneContext';
 interface IControlProps {

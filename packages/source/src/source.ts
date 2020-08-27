@@ -10,8 +10,8 @@ import {
   ITransform,
   lazyInject,
   TYPES,
-} from '@antv/l7-core';
-import { extent } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { extent } from '@cgcs2000/l7-utils';
 import {
   BBox,
   Feature,

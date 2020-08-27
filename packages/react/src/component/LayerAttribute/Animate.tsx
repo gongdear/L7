@@ -1,4 +1,4 @@
-import { IAnimateOption, ILayer } from '@antv/l7';
+import { IAnimateOption, ILayer } from '@cgcs2000/l7';
 import * as React from 'react';
 import { IStyleOptions } from './';
 

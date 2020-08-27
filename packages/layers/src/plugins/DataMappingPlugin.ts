@@ -8,8 +8,8 @@ import {
   IStyleAttribute,
   IStyleAttributeService,
   TYPES,
-} from '@antv/l7-core';
-import { rgb2arr } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { rgb2arr } from '@cgcs2000/l7-utils';
 import { inject, injectable } from 'inversify';
 
 @injectable()

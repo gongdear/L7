@@ -4,7 +4,13 @@
  * @Last Modified by: lzxue
  * @Last Modified time: 2020-06-22 17:33:14
  */
-import { Control, DOM, IControlOption, PositionType, Scene } from '@antv/l7';
+import {
+  Control,
+  DOM,
+  IControlOption,
+  PositionType,
+  Scene,
+} from '@cgcs2000/l7';
 import './css/draw.less';
 import {
   DrawCircle,

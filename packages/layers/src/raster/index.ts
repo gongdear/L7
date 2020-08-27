@@ -1,4 +1,4 @@
-import { IColorRamp } from '@antv/l7-utils';
+import { IColorRamp } from '@cgcs2000/l7-utils';
 import BaseLayer from '../core/BaseLayer';
 import RasterModels, { RasterModelType } from './models/index';
 interface IRasterLayerStyleOptions {

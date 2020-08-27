@@ -1,4 +1,4 @@
-import { IMapWrapper, Scene } from '@antv/l7';
+import { IMapWrapper, Scene } from '@cgcs2000/l7';
 import React, { createElement, createRef, useEffect, useState } from 'react';
 import { SceneContext } from './SceneContext';
 interface IMapSceneConig {

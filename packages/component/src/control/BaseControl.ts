@@ -6,8 +6,8 @@ import {
   IRendererService,
   PositionName,
   TYPES,
-} from '@antv/l7-core';
-import { DOM } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { DOM } from '@cgcs2000/l7-utils';
 import { EventEmitter } from 'eventemitter3';
 import { Container } from 'inversify';
 

@@ -5,6 +5,6 @@
 ## Usage
 
 ```
-import { Scene }  from '@antv/l7-react';
+import { Scene }  from '@cgcs2000/l7-react';
 
 ```

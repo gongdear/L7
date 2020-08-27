@@ -6,7 +6,7 @@
 l7-draw 需要引用
 
 ```
-import { DrawControl } from '@antv/l7-draw';
+import { DrawControl } from '@cgcs2000/l7-draw';
 
 ```
 CDN 版本引用
@@ -14,7 +14,7 @@ CDN 版本引用
 ```html
 <head>
 <! --引入最新版的L7-Draw --> 
-<script src = 'https://unpkg.com/@antv/l7-draw'></script>
+<script src = 'https://unpkg.com/@cgcs2000/l7-draw'></script>
 </head>
 ```
 
@@ -22,9 +22,9 @@ CDN 版本引用
 
 ```javascript
 
-import { Scene } from '@antv/l7';
-import { GaodeMap, Mapbox } from '@antv/l7-maps';
-import { DrawControl } from '@antv/l7-draw';
+import { Scene } from '@cgcs2000/l7';
+import { GaodeMap, Mapbox } from '@cgcs2000/l7-maps';
+import { DrawControl } from '@cgcs2000/l7-draw';
 const scene = new Scene({
       id: 'map',
       map: new GaodeMap({

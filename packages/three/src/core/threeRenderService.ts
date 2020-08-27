@@ -1,4 +1,4 @@
-import { IMapService, IMercator, IRendererService, TYPES } from '@antv/l7';
+import { IMapService, IMercator, IRendererService, TYPES } from '@cgcs2000/l7';
 import { inject, injectable } from 'inversify';
 import {
   AnimationMixer,

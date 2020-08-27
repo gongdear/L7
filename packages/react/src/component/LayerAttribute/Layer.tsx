@@ -8,7 +8,7 @@ import {
   PolygonLayer,
   RasterLayer,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import * as React from 'react';
 import { LayerContext } from '../LayerContext';
 import { useSceneValue } from '../SceneContext';

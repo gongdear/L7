@@ -1,4 +1,4 @@
-import { AttributeType, gl, IEncodeFeature, IModel } from '@antv/l7-core';
+import { AttributeType, gl, IEncodeFeature, IModel } from '@cgcs2000/l7-core';
 import BaseModel from '../../core/BaseModel';
 import { PointExtrudeTriangulation } from '../../core/triangulation';
 import { calculteCentroid } from '../../utils/geo';

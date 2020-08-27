@@ -1,5 +1,5 @@
 {
-  "name": "@antv/l7-draw",
+  "name": "@cgcs2000/l7-draw",
   "version": "2.2.32",
   "description": "L7 Draw moudules",
   "keywords": [],
@@ -36,7 +36,7 @@
     "sync": "tnpm sync"
   },
   "dependencies": {
-    "@antv/l7": "2.2.32",
+    "@cgcs2000/l7": "2.2.32",
     "@babel/runtime": "^7.7.7",
     "@turf/circle": "^6.0.1",
     "@turf/distance": "^6.0.1",

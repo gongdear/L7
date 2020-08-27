@@ -1,4 +1,4 @@
-import { IInteractionTarget, IPopup, Scene } from '@antv/l7';
+import { IInteractionTarget, IPopup, Scene } from '@cgcs2000/l7';
 import { Feature, FeatureCollection } from '@turf/helpers';
 import { EventEmitter } from 'eventemitter3';
 // tslint:disable-next-line:no-submodule-imports

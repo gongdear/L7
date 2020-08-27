@@ -1,4 +1,4 @@
-import { ILayer, StyleAttrField } from '@antv/l7';
+import { ILayer, StyleAttrField } from '@cgcs2000/l7';
 import * as React from 'react';
 import { IAttributeOptions } from './';
 

@@ -8,7 +8,7 @@ import {
   PolygonLayer,
   Popup,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 const InitFeature = {
   type: 'FeatureCollection',
   features: [],

@@ -1,4 +1,10 @@
-import { Bounds, ILngLat, IPoint, IStatusOptions, Point } from '@antv/l7-core';
+import {
+  Bounds,
+  ILngLat,
+  IPoint,
+  IStatusOptions,
+  Point,
+} from '@cgcs2000/l7-core';
 
 export default interface IMapController {
   /**

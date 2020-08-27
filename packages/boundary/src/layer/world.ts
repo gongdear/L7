@@ -5,7 +5,7 @@ import {
   PolygonLayer,
   Scene,
   StyleAttrField,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import { getDataConfig } from '../';
 import BaseLayer from './baseLayer';
 import { IDistrictLayerOption } from './interface';

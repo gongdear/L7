@@ -8,8 +8,8 @@ import {
   IModel,
   IModelUniform,
   ITexture2D,
-} from '@antv/l7-core';
-import { boundsContains, padBounds, rgb2arr } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { boundsContains, padBounds, rgb2arr } from '@cgcs2000/l7-utils';
 import BaseModel from '../../core/BaseModel';
 import CollisionIndex from '../../utils/collision-index';
 import { calculteCentroid } from '../../utils/geo';

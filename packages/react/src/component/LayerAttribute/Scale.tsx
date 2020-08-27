@@ -1,4 +1,4 @@
-import { ILayer, IScale, IScaleOptions } from '@antv/l7';
+import { ILayer, IScale, IScaleOptions } from '@cgcs2000/l7';
 import * as React from 'react';
 import { IScaleAttributeOptions } from './';
 

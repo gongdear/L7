@@ -7,7 +7,7 @@ import {
   IScaleOptions,
   ISourceCFG,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import * as React from 'react';
 import Active from './Active';
 import Animate from './Animate';

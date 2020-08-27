@@ -1,4 +1,4 @@
-import { Scene } from '@antv/l7';
+import { Scene } from '@cgcs2000/l7';
 // tslint:disable-next-line: no-submodule-imports
 import mergeWith from 'lodash/mergeWith';
 import CityLayer from './city';

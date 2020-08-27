@@ -1,4 +1,4 @@
-import { ILngLat, Scene } from '@antv/l7';
+import { ILngLat, Scene } from '@cgcs2000/l7';
 import { Feature, featureCollection } from '@turf/helpers';
 import { unitsType } from '../util/constant';
 import { createLine, createPoint } from '../util/create_geometry';

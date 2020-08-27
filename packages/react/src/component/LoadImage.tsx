@@ -1,4 +1,4 @@
-import { IActiveOption, IImage, ILayer, Scene } from '@antv/l7';
+import { IActiveOption, IImage, ILayer, Scene } from '@cgcs2000/l7';
 import * as React from 'react';
 import { useSceneValue } from './SceneContext';
 

@@ -21,7 +21,7 @@ import {
   lazyInject,
   Triangulation,
   TYPES,
-} from '@antv/l7-core';
+} from '@cgcs2000/l7-core';
 import { BlendTypes } from '../utils/blend';
 export default class BaseModel<ChildLayerStyleOptions = {}>
   implements ILayerModel {

@@ -1,4 +1,4 @@
-import { ILayer } from '@antv/l7';
+import { ILayer } from '@cgcs2000/l7';
 import * as React from 'react';
 import { IStyleOptions } from './';
 

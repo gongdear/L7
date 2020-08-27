@@ -8,8 +8,8 @@ import {
   ILayerConfig,
   IModel,
   IModelUniform,
-} from '@antv/l7-core';
-import { rgb2arr } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { rgb2arr } from '@cgcs2000/l7-utils';
 import BaseModel from '../../core/BaseModel';
 import { PointFillTriangulation } from '../../core/triangulation';
 import pointFillFrag from '../shaders/fill_frag.glsl';

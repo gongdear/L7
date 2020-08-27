@@ -6,8 +6,8 @@ import {
   IModel,
   IModelUniform,
   ITexture2D,
-} from '@antv/l7-core';
-import { generateColorRamp, IColorRamp } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { generateColorRamp, IColorRamp } from '@cgcs2000/l7-utils';
 import { mat4 } from 'gl-matrix';
 import BaseModel from '../../core/BaseModel';
 import { HeatmapTriangulation } from '../../core/triangulation';

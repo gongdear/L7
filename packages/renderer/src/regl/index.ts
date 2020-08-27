@@ -19,7 +19,7 @@ import {
   IRendererService,
   ITexture2D,
   ITexture2DInitializationOptions,
-} from '@antv/l7-core';
+} from '@cgcs2000/l7-core';
 import { injectable } from 'inversify';
 import regl from 'regl';
 import ReglAttribute from './ReglAttribute';

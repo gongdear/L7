@@ -8,7 +8,7 @@ import {
   PolygonLayer,
   Popup,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import { Feature, featureCollection, point } from '@turf/helpers';
 import { DrawEvent, DrawModes } from '../util/constant';
 import moveFeatures from '../util/move_featrues';

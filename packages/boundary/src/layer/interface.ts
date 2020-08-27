@@ -3,7 +3,7 @@ import {
   ScaleTypeName,
   StyleAttributeField,
   StyleAttributeOption,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 export type anchorType =
   | 'right'
   | 'top-right'

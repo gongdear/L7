@@ -34,7 +34,7 @@ export default {
     terser()
   ],
   external: [
-    '@antv/l7'
+    '@cgcs2000/l7'
   ],
   output: [
     {
@@ -43,7 +43,7 @@ export default {
       file: pkg.unpkg,
       sourcemap: true,
       globals: {
-        '@antv/l7': 'L7'
+        '@cgcs2000/l7': 'L7'
       }
     }
   ]

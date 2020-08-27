@@ -10,7 +10,7 @@ import {
   IStyleAttributeService,
   lazyInject,
   TYPES,
-} from '@antv/l7-core';
+} from '@cgcs2000/l7-core';
 import BaseModel from '../../core/BaseModel';
 import { polygonTriangulation } from '../../core/triangulation';
 import polygon_frag from '../shaders/polygon_frag.glsl';

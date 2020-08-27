@@ -12,8 +12,8 @@ import {
   ITexture2D,
   lazyInject,
   TYPES,
-} from '@antv/l7-core';
-import { generateColorRamp, IColorRamp } from '@antv/l7-utils';
+} from '@cgcs2000/l7-core';
+import { generateColorRamp, IColorRamp } from '@cgcs2000/l7-utils';
 import BaseModel from '../../core/BaseModel';
 import { RasterImageTriangulation } from '../../core/triangulation';
 import rasterFrag from '../shaders/raster_2d_frag.glsl';

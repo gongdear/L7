@@ -4,7 +4,7 @@ import {
   ILngLat,
   PointLayer,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import {
   Feature,
   featureCollection,

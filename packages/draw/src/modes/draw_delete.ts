@@ -1,4 +1,4 @@
-import { IInteractionTarget, ILngLat, Scene } from '@antv/l7';
+import { IInteractionTarget, ILngLat, Scene } from '@cgcs2000/l7';
 import { Feature } from '@turf/helpers';
 import { DrawEvent } from '../util/constant';
 import { IDrawFeatureOption } from './draw_feature';

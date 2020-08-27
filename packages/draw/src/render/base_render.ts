@@ -1,4 +1,4 @@
-import { IInteractionTarget, ILayer, Scene } from '@antv/l7';
+import { IInteractionTarget, ILayer, Scene } from '@cgcs2000/l7';
 const InitFeature = {
   type: 'FeatureCollection',
   features: [],

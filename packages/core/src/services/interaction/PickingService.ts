@@ -1,4 +1,4 @@
-import { decodePickingColor, encodePickingColor } from '@antv/l7-utils';
+import { decodePickingColor, encodePickingColor } from '@cgcs2000/l7-utils';
 import { inject, injectable } from 'inversify';
 import {
   IMapService,

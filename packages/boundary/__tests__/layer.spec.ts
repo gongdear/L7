@@ -1,4 +1,4 @@
-// import { WorldLayer } from '@antv/l7-district';
+// import { WorldLayer } from '@cgcs2000/l7-district';
 describe('baseLayer', () => {
   it('set option', () => {
     const option = {

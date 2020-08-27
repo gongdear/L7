@@ -6,7 +6,7 @@ import {
   ILayerConfig,
   IModel,
   IModelUniform,
-} from '@antv/l7-core';
+} from '@cgcs2000/l7-core';
 
 import BaseModel from '../../core/BaseModel';
 import { ILineLayerStyleOptions, lineStyleType } from '../../core/interface';

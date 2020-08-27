@@ -1,4 +1,4 @@
-import { BaseLayer, ILayer, IMercator } from '@antv/l7';
+import { BaseLayer, ILayer, IMercator } from '@cgcs2000/l7';
 import {
   AnimationMixer,
   Camera,

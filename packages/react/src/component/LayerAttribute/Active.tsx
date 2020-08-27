@@ -1,4 +1,4 @@
-import { IActiveOption, ILayer } from '@antv/l7';
+import { IActiveOption, ILayer } from '@cgcs2000/l7';
 import * as React from 'react';
 
 const { useEffect } = React;

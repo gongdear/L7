@@ -4,7 +4,7 @@
 //   ILayerPlugin,
 //   ILogService,
 //   TYPES,
-// } from '@antv/l7-core';
+// } from '@cgcs2000/l7-core';
 // import { inject, injectable } from 'inversify';
 
 // /**

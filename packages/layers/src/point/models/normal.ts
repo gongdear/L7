@@ -6,9 +6,9 @@ import {
   ILayerConfig,
   IModel,
   IModelUniform,
-} from '@antv/l7-core';
+} from '@cgcs2000/l7-core';
 
-import { rgb2arr } from '@antv/l7-utils';
+import { rgb2arr } from '@cgcs2000/l7-utils';
 import BaseModel from '../../core/BaseModel';
 import { BlendTypes } from '../../utils/blend';
 import normalFrag from '../shaders/normal_frag.glsl';

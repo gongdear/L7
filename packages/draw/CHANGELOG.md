@@ -17,7 +17,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.11](https://github.com/antvis/L7/compare/v2.1.10...v2.1.11) (2020-04-07)
 
-**Note:** Version bump only for package @antv/l7-draw
+**Note:** Version bump only for package @cgcs2000/l7-draw
 
 
 
@@ -25,7 +25,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.8](https://github.com/antvis/L7/compare/v2.1.7...v2.1.8) (2020-03-26)
 
-**Note:** Version bump only for package @antv/l7-draw
+**Note:** Version bump only for package @cgcs2000/l7-draw
 
 
 
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.7](https://github.com/antvis/L7/compare/v2.1.6...v2.1.7) (2020-03-26)
 
-**Note:** Version bump only for package @antv/l7-draw
+**Note:** Version bump only for package @cgcs2000/l7-draw
 
 
 

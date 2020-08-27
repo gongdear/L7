@@ -1,5 +1,5 @@
-import { ILayer, ILayerPlugin, IMapService, TYPES } from '@antv/l7-core';
-import Source from '@antv/l7-source';
+import { ILayer, ILayerPlugin, IMapService, TYPES } from '@cgcs2000/l7-core';
+import Source from '@cgcs2000/l7-source';
 import { injectable } from 'inversify';
 
 @injectable()

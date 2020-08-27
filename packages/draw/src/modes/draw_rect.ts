@@ -1,4 +1,4 @@
-import { Scene } from '@antv/l7';
+import { Scene } from '@cgcs2000/l7';
 import {
   Feature,
   FeatureCollection,

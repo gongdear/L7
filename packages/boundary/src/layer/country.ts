@@ -1,4 +1,4 @@
-import { AttributeType, LineLayer, PointLayer, Scene } from '@antv/l7';
+import { AttributeType, LineLayer, PointLayer, Scene } from '@cgcs2000/l7';
 import { getDataConfig } from '../index';
 import BaseLayer from './baseLayer';
 import { IDistrictLayerOption } from './interface';

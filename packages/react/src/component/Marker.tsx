@@ -9,7 +9,7 @@ import {
   Marker,
   Popup,
   Scene,
-} from '@antv/l7';
+} from '@cgcs2000/l7';
 import * as React from 'react';
 import { createPortal } from 'react-dom';
 import { SceneContext } from './SceneContext';
