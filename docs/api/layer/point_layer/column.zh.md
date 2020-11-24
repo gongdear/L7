@@ -2,6 +2,7 @@
 title: 3D 柱图
 order: 5
 ---
+`markdown:docs/common/style.md`
 
 3D 柱图地理区域上方会显示不同高度的柱体，主题的高度与其在数据集中的数值会成正比。
 
@@ -57,3 +58,4 @@ const column = new PointLayer({})
     opacity: 1.0,
   });
 ```
+`markdown:docs/common/layer/base.md`

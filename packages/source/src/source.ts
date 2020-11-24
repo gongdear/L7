@@ -11,7 +11,7 @@ import {
   lazyInject,
   TYPES,
 } from '@cgcs2000/l7-core';
-import { extent } from '@cgcs2000/l7-utils';
+import { bBoxToBounds, extent, padBounds } from '@cgcs2000/l7-utils';
 import {
   BBox,
   Feature,
@@ -87,7 +87,11 @@ export default class Source extends EventEmitter {
   }
   public updateClusterData(zoom: number): void {
     const { method = 'sum', field } = this.clusterOptions;
-    let data = this.clusterIndex.getClusters(this.extent, Math.floor(zoom));
+    const newBounds = padBounds(bBoxToBounds(this.extent), 2);
+    let data = this.clusterIndex.getClusters(
+      newBounds[0].concat(newBounds[1]),
+      Math.floor(zoom),
+    );
     this.clusterOptions.zoom = zoom;
     data.forEach((p: any) => {
       if (!p.id) {

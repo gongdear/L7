@@ -2,7 +2,7 @@
 title: 路径图
 order: 1
 ---
-
+`markdown:docs/common/style.md`
 用一组首尾不闭合的点坐标对来定位的线图层，通常用来表示轨迹，线路，道路等
 
 ## 使用
@@ -55,3 +55,4 @@ L7 目前动画参数为相对单位，我们默认一条线段的长度为 1
 ![L7 动画参数](https://gw.alipayobjects.com/mdn/rms_855bab/afts/img/A*IBBfSIkb51cAAAAAAAAAAABkARQnAQ)
 
 如果 interval = 0.2,则一条轨迹将会分成 5 段，如果 interval = 0.5 则为两段。
+`markdown:docs/common/layer/base.md`

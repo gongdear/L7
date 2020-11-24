@@ -1,6 +1,6 @@
 {
   "name": "@cgcs2000/l7",
-  "version": "2.2.32",
+  "version": "2.3.0",
   "description": "A Large-scale WebGL-powered Geospatial Data Visualization",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -26,12 +26,12 @@
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-component": "2.2.32",
-    "@cgcs2000/l7-core": "2.2.32",
-    "@cgcs2000/l7-layers": "2.2.32",
-    "@cgcs2000/l7-maps": "2.2.32",
-    "@cgcs2000/l7-scene": "2.2.32",
-    "@cgcs2000/l7-utils": "2.2.32"
+    "@cgcs2000/l7-component": "^2.3.0",
+    "@cgcs2000/l7-core": "^2.3.0",
+    "@cgcs2000/l7-layers": "^2.3.0",
+    "@cgcs2000/l7-maps": "^2.3.0",
+    "@cgcs2000/l7-scene": "^2.3.0",
+    "@cgcs2000/l7-utils": "^2.3.0"
   },
   "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
   "publishConfig": {

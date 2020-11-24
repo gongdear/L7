@@ -2,6 +2,7 @@
 title: PolygonLayer
 order: 0
 ---
+`markdown:docs/common/style.md`
 
 绘制 2D 多边形以及沿 Z 轴拉伸后的 3D 图形。
 
@@ -25,4 +26,4 @@ PolyonLayer.shape('line').size(1); // size 表示线宽度
 PolyonLayer.shape('extrude').size(10); // size 表示高度
 ```
 
-其他方法，事件，同基类 [Layer](/zh/docs/api/layer/layer)
+`markdown:docs/common/layer/base.md`

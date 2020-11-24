@@ -14,13 +14,11 @@ exports.onCreateWebpackConfig = ({ getConfig }) => {
     '@cgcs2000/l7-core': path.resolve(__dirname, 'packages/core/src'),
     '@cgcs2000/l7-component': path.resolve(__dirname, 'packages/component/src'),
     '@cgcs2000/l7-layers': path.resolve(__dirname, 'packages/layers/src'),
+    '@cgcs2000/l7-map': path.resolve(__dirname, 'packages/map/src'),
     '@cgcs2000/l7-maps': path.resolve(__dirname, 'packages/maps/src'),
     '@cgcs2000/l7-renderer': path.resolve(__dirname, 'packages/renderer/src'),
     '@cgcs2000/l7-scene': path.resolve(__dirname, 'packages/scene/src'),
     '@cgcs2000/l7-source': path.resolve(__dirname, 'packages/source/src'),
-    '@cgcs2000/l7-utils': path.resolve(__dirname, 'packages/utils/src'),
-    '@cgcs2000/l7-react': path.resolve(__dirname, 'packages/react/src'),
-    '@cgcs2000/l7-draw': path.resolve(__dirname, 'packages/draw/src'),
-    '@cgcs2000/l7-district': path.resolve(__dirname, 'packages/boundary/src')
-  };
+    '@cgcs2000/l7-utils': path.resolve(__dirname, 'packages/utils/src')
+  }
 };

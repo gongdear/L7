@@ -3,23 +3,13 @@ title: 城市建筑
 order: 6
 ---
 
+`markdown:docs/common/style.md`
+
 ## 使用
 
 ```javascript
 import { CityBuildingLayer } from '@antv/l7';
 ```
-
-### source
-
-同 [PolygonLayer](./polygon_layer/extrude)
-
-### size
-
-同 [PolygonLayer](./polygon_layer/extrude)
-
-### color
-
-[PolygonLayer](./polygon_layer/extrude)
 
 ### animate
 
@@ -71,3 +61,5 @@ pointLayer
   });
 scene.addLayer(pointLayer);
 ```
+
+`markdown:docs/common/layer/base.md`

@@ -3,6 +3,8 @@ title: 亮度图
 order: 3
 ---
 
+`markdown:docs/common/style.md`
+
 亮度图又称点密度图，单位面积的内点的个数越多，亮度会越亮，亮度图一般用来表达海量点数据分布情况
 
 ## 使用
@@ -45,3 +47,5 @@ scene.addLayer(pointLayer);
 ## 相关 demo
 
 [城市亮度图](../../../../examples/point/dot)
+
+`markdown:docs/common/layer/base.md`
