@@ -45,7 +45,7 @@
     "@types/d3-hexbin": "^0.2.3",
     "@types/lodash": "^4.14.138"
   },
-  "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
+  "gitHead": "b3d6b36f2d4a130aada364bb87f480bd1d8480de",
   "publishConfig": {
     "access": "public"
   }

@@ -33,7 +33,7 @@
     "@cgcs2000/l7-scene": "^2.3.0",
     "@cgcs2000/l7-utils": "^2.3.0"
   },
-  "gitHead": "f3b6754b7793df4ce0103a392807694c0c520395",
+  "gitHead": "b3d6b36f2d4a130aada364bb87f480bd1d8480de",
   "publishConfig": {
     "access": "public"
   }
