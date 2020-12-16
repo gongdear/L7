@@ -1,6 +1,6 @@
 {
   "name": "@cgcs2000/l7-three",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "description": "three for L7 ",
   "keywords": [
     "3D",
@@ -45,14 +45,14 @@
   "homepage": "https://github.com/antvis/L7#readme",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7": "^2.3.0",
+    "@cgcs2000/l7": "^2.3.2",
     "rollup": "^2.3.3",
     "rollup-plugin-less": "^1.1.2"
   },
   "devDependencies": {
     "three": "^0.115.0"
   },
-  "gitHead": "379335a4d5693c5d8ad2e80687a5a7a58a98b805",
+  "gitHead": "1a473053975e21527552f74ba6c15f15ca7d522a",
   "publishConfig": {
     "access": "public"
   }

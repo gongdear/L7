@@ -11,7 +11,7 @@ L7 Large-scale WebGL-powered Geospatial data visualization analysis framework
 ### Installation
 
 ```
- npm install @cgcs2000/l7
+ npm install @antv/l7
 
 ```
 

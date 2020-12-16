@@ -11,7 +11,7 @@
       "@cgcs2000/l7-component": ["packages/component/src"],
       "@cgcs2000/l7-layers": ["packages/layers/src"],
       "@cgcs2000/l7-map": ["packages/map/src"],
-      "@cgcs2000l7-maps": ["packages/maps/src"],
+      "@cgcs2000/l7-maps": ["packages/maps/src"],
       "@cgcs2000/l7-scene": ["packages/scene/src"],
       "@cgcs2000/l7-scene": ["packages/scene/src"],
       "@cgcs2000/l7-renderer": ["packages/renderer/src"],

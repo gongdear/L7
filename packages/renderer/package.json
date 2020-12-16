@@ -1,6 +1,6 @@
 {
   "name": "@cgcs2000/l7-renderer",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -27,13 +27,13 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-core": "^2.3.0",
+    "@cgcs2000/l7-core": "^2.3.2",
     "inversify": "^5.0.1",
     "lodash": "^4.17.15",
     "reflect-metadata": "^0.1.13",
     "regl": "^1.6.1"
   },
-  "gitHead": "379335a4d5693c5d8ad2e80687a5a7a58a98b805",
+  "gitHead": "1a473053975e21527552f74ba6c15f15ca7d522a",
   "publishConfig": {
     "access": "public"
   }

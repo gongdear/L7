@@ -1,2 +1,2 @@
 // @ts-ignore
-export * from '@cgcs2000/l7';
+export * from '@antv/l7';

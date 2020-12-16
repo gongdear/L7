@@ -47,7 +47,6 @@ export function getDistanceScales({
    *     = -scale * TILE_SIZE * DEGREES_TO_RADIANS / cos(lat * DEGREES_TO_RADIANS)  / (2 * PI)
    */
   const pixelsPerDegreeX = worldSize / 360;
-  // const pixelsPerDegreeY = worldSize / 360;
   const pixelsPerDegreeY = pixelsPerDegreeX / latCosine;
 
   /**

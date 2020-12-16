@@ -1,6 +1,6 @@
 {
   "name": "@cgcs2000/l7-utils",
-  "version": "2.3.0",
+  "version": "2.3.2",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/d3-color": "^1.2.2"
   },
-  "gitHead": "379335a4d5693c5d8ad2e80687a5a7a58a98b805",
+  "gitHead": "1a473053975e21527552f74ba6c15f15ca7d522a",
   "publishConfig": {
     "access": "public"
   }

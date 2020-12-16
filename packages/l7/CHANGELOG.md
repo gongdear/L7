@@ -16,7 +16,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.11](https://github.com/antvis/L7/compare/v2.1.10...v2.1.11) (2020-04-07)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -24,7 +24,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.8](https://github.com/antvis/L7/compare/v2.1.7...v2.1.8) (2020-03-26)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.7](https://github.com/antvis/L7/compare/v2.1.6...v2.1.7) (2020-03-26)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -86,7 +86,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.0.34](https://github.com/antvis/L7/compare/v2.0.32...v2.0.34) (2020-03-02)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -204,7 +204,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.19](https://github.com/antvis/L7/compare/v2.0.0-beta.16...v2.0.0-beta.19) (2019-12-08)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -212,7 +212,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.18](https://github.com/antvis/L7/compare/v2.0.0-beta.16...v2.0.0-beta.18) (2019-12-08)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -220,7 +220,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.17](https://github.com/antvis/L7/compare/v2.0.0-beta.16...v2.0.0-beta.17) (2019-12-08)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -228,7 +228,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.16](https://github.com/antvis/L7/compare/v2.0.0-beta.15...v2.0.0-beta.16) (2019-11-29)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -236,7 +236,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.15](https://github.com/antvis/L7/compare/v2.0.0-beta.14...v2.0.0-beta.15) (2019-11-29)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -244,7 +244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.14](https://github.com/antvis/L7/compare/v2.0.0-beta.13...v2.0.0-beta.14) (2019-11-28)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
@@ -252,7 +252,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [2.0.0-beta.13](https://github.com/antvis/L7/compare/v2.0.0-beta.12...v2.0.0-beta.13) (2019-11-28)
 
-**Note:** Version bump only for package @cgcs2000/l7
+**Note:** Version bump only for package @antv/l7
 
 
 
