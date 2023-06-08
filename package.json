@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/cgcs2000/L7"
+    "url": "https://github.com/gongdear/L7"
   },
   "devDependencies": {
     "@antv/g2": "^3.5.9",

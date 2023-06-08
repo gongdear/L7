@@ -1868,10 +1868,18 @@
   dependencies:
     "@mapbox/point-geometry" "~0.1.0"
 
-"@cgcs2000/viewport-cgcs2000-project@^6.1.2", "@cgcs2000/viewport-cgcs2000-project@^6.2.1":
+"@cgcs2000/viewport-cgcs2000-project@^6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@cgcs2000/viewport-cgcs2000-project/-/viewport-cgcs2000-project-6.1.2.tgz#024bb2c7c72d4b2b44bb9662fac881745bdb3734"
   integrity sha512-tA3542nRS0BszYEf82fkFrPDCg1QXRXVHciX7FQvuTGa/6yYR2TmPH2gbZ5QXo9gRH3/pladaWZ6mPb3WTbd9g==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    gl-matrix "^3.0.0"
+
+"@cgcs2000/viewport-cgcs2000-project@^6.2.1":
+  version "6.2.2"
+  resolved "http://124.128.226.245:30079/@cgcs2000%2fviewport-cgcs2000-project/-/viewport-cgcs2000-project-6.2.2.tgz#d4904a002ae6e2f5d1c97d53f892e489992a2f02"
+  integrity sha512-/4KjNEmDf5b4peWTrTlGlx1Hly0aRswzi3jCw6kbCNijZClzSKJuMAt8mSI0s0AkfoDRg2owmViUyhDnXJ1LfQ==
   dependencies:
     "@babel/runtime" "^7.0.0"
     gl-matrix "^3.0.0"
