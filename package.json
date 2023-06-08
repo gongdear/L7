@@ -1,6 +1,6 @@
 {
   "name": "@gongdear/l7",
-  "version": "2.3.3",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/gongdear/L7"
