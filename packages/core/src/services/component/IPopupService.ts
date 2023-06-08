@@ -1,4 +1,4 @@
-import { anchorType } from '@cgcs2000/l7-utils';
+import { anchorType } from '@gongdear/l7-utils';
 import { Container } from 'inversify';
 import { ILngLat, IMapService } from '../map/IMapService';
 

@@ -4,7 +4,7 @@ import {
   IPoint,
   IStatusOptions,
   Point,
-} from '@cgcs2000/l7-core';
+} from '@gongdear/l7-core';
 
 export default interface IMapController {
   /**

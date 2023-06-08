@@ -17,9 +17,9 @@ import {
   MapServiceEvent,
   MapStyle,
   TYPES,
-} from '@cgcs2000/l7-core';
-import { Map } from '@cgcs2000/l7-map';
-import { DOM } from '@cgcs2000/l7-utils';
+} from '@gongdear/l7-core';
+import { Map } from '@gongdear/l7-map';
+import { DOM } from '@gongdear/l7-utils';
 import { mat4, vec2, vec3 } from 'gl-matrix';
 import { inject, injectable } from 'inversify';
 

@@ -6,7 +6,7 @@ import {
   IMapWrapper,
   lazyInject,
   TYPES,
-} from '@cgcs2000/l7-core';
+} from '@gongdear/l7-core';
 import { Container } from 'inversify';
 export default class BaseMapWrapper<RawMap> implements IMapWrapper {
   @lazyInject(TYPES.ILogService)

@@ -1,4 +1,4 @@
-import { ILayer } from '@cgcs2000/l7-core';
+import { ILayer } from '@gongdear/l7-core';
 
 export default interface ILayerManager {
   addLayer(layer: ILayer): void;

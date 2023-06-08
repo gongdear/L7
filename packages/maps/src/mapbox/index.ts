@@ -1,4 +1,4 @@
-import { Map } from '@cgcs2000/mapbox-gl';
+import { Map } from '@gongdear/mapbox-gl';
 import { IMapboxInstance } from '../../typings/index';
 import BaseMapWrapper from '../BaseMapWrapper';
 import './logo.css';

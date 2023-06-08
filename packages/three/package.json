@@ -1,5 +1,5 @@
 {
-  "name": "@cgcs2000/l7-three",
+  "name": "@gongdear/l7-three",
   "version": "2.3.2",
   "description": "three for L7 ",
   "keywords": [
@@ -45,7 +45,7 @@
   "homepage": "https://github.com/antvis/L7#readme",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7": "^2.3.2",
+    "@gongdear/l7": "^2.3.2",
     "rollup": "^2.3.3",
     "rollup-plugin-less": "^1.1.2"
   },

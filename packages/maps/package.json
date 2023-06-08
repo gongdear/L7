@@ -1,5 +1,5 @@
 {
-  "name": "@cgcs2000/l7-maps",
+  "name": "@gongdear/l7-maps",
   "version": "2.3.2",
   "description": "",
   "main": "lib/index.js",
@@ -28,11 +28,11 @@
   "dependencies": {
     "@amap/amap-jsapi-loader": "^0.0.3",
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-core": "^2.3.2",
-    "@cgcs2000/l7-map": "^2.3.2",
-    "@cgcs2000/l7-utils": "^2.3.2",
-    "@cgcs2000/mapbox-gl": "^1.2.1",
-    "@cgcs2000/viewport-cgcs2000-project": "^6.2.1",
+    "@gongdear/l7-core": "^2.3.2",
+    "@gongdear/l7-map": "^2.3.2",
+    "@gongdear/l7-utils": "^2.3.2",
+    "@gongdear/mapbox-gl": "^2.3.0",
+    "@gongdear/viewport-cgcs2000-project": "^6.2.1",
     "@types/amap-js-api": "^1.4.6",
     "@types/mapbox-gl": "^1.11.2",
     "gl-matrix": "^3.1.0",

@@ -1,5 +1,5 @@
 {
-  "name": "@cgcs2000/l7-core",
+  "name": "@gongdear/l7-core",
   "version": "2.3.2",
   "description": "",
   "main": "lib/index.js",
@@ -25,8 +25,8 @@
   "dependencies": {
     "@antv/async-hook": "^2.1.0",
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-utils": "^2.3.2",
-    "@cgcs2000/viewport-cgcs2000-project": "^6.2.1",
+    "@gongdear/l7-utils": "^2.3.2",
+    "@gongdear/viewport-cgcs2000-project": "^6.2.1",
     "@mapbox/tiny-sdf": "^1.1.1",
     "ajv": "^6.10.2",
     "element-resize-event": "^3.0.3",

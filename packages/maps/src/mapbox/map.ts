@@ -17,14 +17,14 @@ import {
   MapServiceEvent,
   MapStyle,
   TYPES,
-} from '@cgcs2000/l7-core';
-import { DOM } from '@cgcs2000/l7-utils';
-import mapboxgl, { IControl, Map } from '@cgcs2000/mapbox-gl';
+} from '@gongdear/l7-core';
+import { DOM } from '@gongdear/l7-utils';
+import mapboxgl, { IControl, Map } from '@gongdear/mapbox-gl';
 import { mat4, vec2, vec3 } from 'gl-matrix';
 import { inject, injectable } from 'inversify';
 
 // tslint:disable-next-line:no-submodule-imports
-import '@cgcs2000/mapbox-gl/dist/mapbox-gl.css';
+import '@gongdear/mapbox-gl/dist/mapbox-gl.css';
 import { IMapboxInstance } from '../../typings/index';
 import Viewport from './Viewport';
 window.mapboxgl = mapboxgl;

@@ -1,5 +1,5 @@
 {
-  "name": "@cgcs2000/l7-layers",
+  "name": "@gongdear/l7-layers",
   "version": "2.3.2",
   "description": "L7's collection of built-in layers",
   "main": "lib/index.js",
@@ -25,9 +25,9 @@
   "dependencies": {
     "@antv/async-hook": "^2.1.0",
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-core": "^2.3.2",
-    "@cgcs2000/l7-source": "^2.3.2",
-    "@cgcs2000/l7-utils": "^2.3.2",
+    "@gongdear/l7-core": "^2.3.2",
+    "@gongdear/l7-source": "^2.3.2",
+    "@gongdear/l7-utils": "^2.3.2",
     "@mapbox/martini": "^0.2.0",
     "@turf/meta": "^6.0.2",
     "d3-array": "1",

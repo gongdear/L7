@@ -1,4 +1,4 @@
-import { decodePickingColor, encodePickingColor } from '@cgcs2000/l7-utils';
+import { decodePickingColor, encodePickingColor } from '@gongdear/l7-utils';
 import { inject, injectable } from 'inversify';
 import { TYPES } from '../../../types';
 import {

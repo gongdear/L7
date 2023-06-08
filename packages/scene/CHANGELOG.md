@@ -16,7 +16,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.11](https://github.com/antvis/L7/compare/v2.1.10...v2.1.11) (2020-04-07)
 
-**Note:** Version bump only for package @cgcs2000/l7-scene
+**Note:** Version bump only for package @gongdear/l7-scene
 
 
 
@@ -24,7 +24,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.8](https://github.com/antvis/L7/compare/v2.1.7...v2.1.8) (2020-03-26)
 
-**Note:** Version bump only for package @cgcs2000/l7-scene
+**Note:** Version bump only for package @gongdear/l7-scene
 
 
 
@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.7](https://github.com/antvis/L7/compare/v2.1.6...v2.1.7) (2020-03-26)
 
-**Note:** Version bump only for package @cgcs2000/l7-scene
+**Note:** Version bump only for package @gongdear/l7-scene
 
 
 
@@ -40,7 +40,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.1.5](https://github.com/antvis/L7/compare/v2.1.4...v2.1.5) (2020-03-20)
 
-**Note:** Version bump only for package @cgcs2000/l7-scene
+**Note:** Version bump only for package @gongdear/l7-scene
 
 
 
@@ -81,7 +81,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [2.0.34](https://github.com/antvis/L7/compare/v2.0.32...v2.0.34) (2020-03-02)
 
-**Note:** Version bump only for package @cgcs2000/l7-scene
+**Note:** Version bump only for package @gongdear/l7-scene
 
 
 

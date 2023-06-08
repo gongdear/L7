@@ -194,6 +194,6 @@
   },
   "dependencies": {
     "@gongdear/mapbox-gl": "^2.3.0",
-    "@cgcs2000/viewport-cgcs2000-project": "^6.1.2"
+    "@gongdear/viewport-cgcs2000-project": "^6.1.2"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@cgcs2000/l7",
+  "name": "@gongdear/l7",
   "version": "2.3.2",
   "description": "A Large-scale WebGL-powered Geospatial Data Visualization",
   "main": "lib/index.js",
@@ -26,12 +26,12 @@
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
-    "@cgcs2000/l7-component": "^2.3.2",
-    "@cgcs2000/l7-core": "^2.3.2",
-    "@cgcs2000/l7-layers": "^2.3.2",
-    "@cgcs2000/l7-maps": "^2.3.2",
-    "@cgcs2000/l7-scene": "^2.3.2",
-    "@cgcs2000/l7-utils": "^2.3.2"
+    "@gongdear/l7-component": "^2.3.2",
+    "@gongdear/l7-core": "^2.3.2",
+    "@gongdear/l7-layers": "^2.3.2",
+    "@gongdear/l7-maps": "^2.3.2",
+    "@gongdear/l7-scene": "^2.3.2",
+    "@gongdear/l7-utils": "^2.3.2"
   },
   "gitHead": "1a473053975e21527552f74ba6c15f15ca7d522a",
   "publishConfig": {
