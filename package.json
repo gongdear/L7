@@ -1,6 +1,6 @@
 {
   "name": "@gongdear/l7",
-  "version": "2.3.0",
+  "version": "2.3.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/gongdear/L7"
@@ -193,7 +193,7 @@
     "mode": "yarn"
   },
   "dependencies": {
-    "@cgcs2000/mapbox-gl": "^1.13.0",
+    "@gongdear/mapbox-gl": "^2.3.0",
     "@cgcs2000/viewport-cgcs2000-project": "^6.1.2"
   }
 }
